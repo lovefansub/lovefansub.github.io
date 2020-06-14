@@ -1,25 +1,21 @@
 # Site configuration
 domain: "http://songroger.win"
-baseurl: "/murmur" # the subpath of your site, e.g. /blog
-url: "http://songroger.github.io/" # the base hostname & protocol for your site
+baseurl: "/lovefansub" # the subpath of your site, e.g. /blog
+url: "http://lovefansub.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: /murmur/assets/avatar.jpg
-about: /murmur/assets/about.jpg
-favicon: /murmur/assets/favicon.ico
+avatar: /lovefansub/assets/avatar.jpg
+about: /lovefansub/assets/about.jpg
+favicon: /lovefansub/assets/favicon.ico
 basecss: 
 # Theme specific configuration
 title: 用爱发电字幕组
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+  大家好，这里是用爱发电字幕组，微博同名。主要业务为：转发投稿的个人/小群体译制作品（包括但不限于视频、文章等），
+  总结投稿中的单词，搜集分享和字幕全流程相关的小技巧，采访投稿者等。
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+weibo_username: 用爱发电字幕组
+github_username: lovefansub
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
