@@ -1,6 +1,6 @@
 # Site configuration
 domain: "http://songroger.win"
-baseurl: "/lovefansub" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lovefansub.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /lovefansub/assets/avatar.jpg
